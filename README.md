@@ -72,6 +72,6 @@ Tip Mach:         0.262
 
 The solver automatically generates performance plots. Below is the output for the APC 11x5.5 propeller at 6000 RPM and 15 m/s:
 
-![SABEMMT Analysis Results](img/results_example.png)
+![SABEMMT Analysis Results](results/SABEMMT_simulation_plot.png)
 
 *Figure: (Top-Left) Aerodynamic load distribution showing smooth gradients due to linear Re-interpolation. (Top-Right) Local angle of attack relative to stall limits. (Bottom-Left) Von Mises stress estimation. (Bottom-Right) Blade geometry.*
