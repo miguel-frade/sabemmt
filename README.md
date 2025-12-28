@@ -30,7 +30,7 @@ For a complete mathematical derivation of the model, including the structural eq
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/sabemmt-rotor-analysis.git](https://github.com/miguel-frade/sabemmt.git)
+    git clone [https://github.com/miguel-frade/sabemmt-rotor-analysis.git](https://github.com/miguel-frade/sabemmt.git)
     cd sabemmt-rotor-analysis
     ```
 
