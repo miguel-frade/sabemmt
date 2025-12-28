@@ -8,7 +8,7 @@ Unlike standard BEMT codes that fail at low speeds, this project implements an "
 
 * **Robust Inflow Model**: Uses the Cuerva et al. (2006) modification to handle the "Singularity of Momentum Theory," making it stable for static thrust and vertical descent.
 * **Reynolds-Aware Aerodynamics**: interpolation of $C_l$ and $C_d$ polars across varying Reynolds numbers ($Re$) along the blade span.
-* **Structural Estimation**: Calculates Centrifugal Force ($F_{cf}$) and Bending Moments ($M_x, M_y$) to estimate Von Mises stresses.
+* **Structural Estimation**: Calculates Centrifugal Force ($F_{cf}$) and Bending Moments ($M_x, M_y$) to estimate stresses in a conservative way.
 * **Vectorized Solver**: Optimized MATLAB code for fast execution, suitable for iterative design and optimization loops.
 * **Visual Output**: Automatically generates plots for aerodynamic load distribution ($dT/dx, dF_t/dx$), angle of attack ($\alpha$), and structural stress.
 
