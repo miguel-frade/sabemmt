@@ -16,7 +16,9 @@ Unlike standard BEMT codes that fail at low speeds, this project implements an "
 
 * `main_runner.m`: **Start here.** The driver script that defines the propeller geometry (Chord/Twist), loads airfoil data, and executes the simulation.
 * `runSABEMMT.m`: The core BEMT solver function. It handles the iterative induction loops and structural integration.
-* `getAirfoilDataE214_MultiRe_cleaned.m`: A sample database containing Eppler E214C-PT airfoil polars (Lift/Drag vs Alpha vs Re).
+* `getAirfoilDataMultiReE214.m`: A sample database containing Eppler E214C-PT airfoil polars (Lift/Drag vs Alpha vs Re).
+* `getAirfoilInertias.m`: Function that computes the geometric characteristics of the airfoil needed for structural analysis.
+* `plotGeometryAndPerformances.m`: A comprehensive plotting function that generates multiple article-ready plots.
 
 ## Theoretical Basis
 
