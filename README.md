@@ -30,7 +30,7 @@ For a complete mathematical derivation of the model, including the structural eq
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/miguel-frade/sabemmt-rotor-analysis.git](https://github.com/miguel-frade/sabemmt.git)
+    git clone [https://github.com/miguel-frade/sabemmt.git](https://github.com/miguel-frade/sabemmt.git)
     cd sabemmt-rotor-analysis
     ```
 
@@ -58,7 +58,7 @@ To analyze your own propeller, modify `main_runner.m`:
 
 ## Example Output
 
-For a propeller similar to APC 11x5.5 Sport Propeller used for UAV:
+For a propeller similar to APC 11x5.5 Sport Propeller used for UAV, numerical results and multiple plots can be found at (results/).
 
 Running BEMT Solver for V=15.0 m/s, RPM=6000...
 
