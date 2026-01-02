@@ -53,8 +53,8 @@ For a complete mathematical derivation of the model, including the structural eq
 To analyze your own propeller, modify `main_runner.m`:
 
 * **Geometry**: Update `R` (radius), `c` (chord distribution), and `theta_deg` (twist distribution).
-* **Operating Point**: Change `v_inf` (velocity in m/s) and `rpm`.
-* **Airfoil**: Replace `getAirfoilDataE214...` with your own function or data structure. *Ensure your polars cover the necessary Reynolds range.*
+* **Operating Point**: Change `v` (velocity in m/s) and `rpm`.
+* **Airfoil**: Replace `getAirfoilDataMultiReE214` with your own function or data structure. *Ensure your polars cover the necessary Reynolds range.*
 
 ## Example Output
 
