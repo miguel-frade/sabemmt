@@ -61,6 +61,7 @@ To analyze your own propeller, modify `main_runner.m`:
 For a propeller similar to the APC 11x5.5 Sport Propeller used for UAVs, numerical results and multiple plots can be found in the [results/](results/) folder.
 
 Some example plots are:
+
 ![Thrust distribution](results/4_Propeler_Aerodynamics_and_Forces.jpg)
 
 ![Efficiency and Performances maps](6_Airfoil_stress_distribution.jpg)
