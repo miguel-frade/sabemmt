@@ -58,20 +58,14 @@ To analyze your own propeller, modify `main_runner.m`:
 
 ## Example Output
 
-For a propeller similar to APC 11x5.5 Sport Propeller used for UAV, numerical results and multiple plots can be found at (results/).
+For a propeller similar to the APC 11x5.5 Sport Propeller used for UAVs, numerical results and multiple plots can be found in the [results/](results/) folder.
 
-Running BEMT Solver for V=15.0 m/s, RPM=6000...
+Some example plots are:
+![Thrust distribution](results/4_Propeler_Aerodynamics_and_Forces.jpg)
 
---- RESULTS ---
-Thrust (T):       1.8284 N
-Torque (Q):       0.0736 Nm
-Power (P):        46.2406 W
-Efficiency (eta): 59.31 %
-Max Stress:       25.46 MPa
-Tip Mach:         0.262
+![Efficiency and Performances maps](6_Airfoil_stress_distribution.jpg)
 
-The solver automatically generates performance plots. Below is the output for the APC 11x5.5 propeller at 6000 RPM and 15 m/s:
+![Efficiency and Performances maps](7_Performance_Clouds.jpg)
 
-![SABEMMT Analysis Results](results/SABEMMT_simulation_plot.png)
 
-*Figure: (Top-Left) Aerodynamic load distribution showing smooth gradients due to linear Re-interpolation. (Top-Right) Local angle of attack relative to stall limits. (Bottom-Left) Von Mises stress estimation. (Bottom-Right) Blade geometry.*
+
