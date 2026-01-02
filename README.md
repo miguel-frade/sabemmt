@@ -64,11 +64,11 @@ For a propeller similar to the APC 11x5.5 Sport Propeller used for UAVs, numeric
 
 Some example plots are:
 
-![Thrust distribution](results/4_Propeler_Aerodynamics_and_Forces.jpg)
+![Thrust distribution](results/4_Propeller_Aerodynamics_and_Forces.jpg)
 
-![Efficiency and Performances maps](6_Airfoil_stress_distribution.jpg)
+![Efficiency and Performances maps](results/6_Airfoil_stress_distribution.jpg)
 
-![Efficiency and Performances maps](7_Performance_Clouds.jpg)
+![Efficiency and Performances maps](results/7_Performance_Clouds.jpg)
 
 
 
