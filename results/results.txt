@@ -1,0 +1,21 @@
+
+==================== FLIGHT CONDITION =====================
+ Flight speed and RPM: V=15.0 m/s, RPM=7000
+
+===========================================================
+Loading airfoil data...
+
+===========================================================
+Computing airfoil geometric properties...
+
+===========================================================
+Running SABEMMT Solver for V=15.0 m/s, RPM=7000...
+
+========================= RESULTS =========================
+Thrust (T):         4.4568 N
+Torque (Q):         0.1405 Nm
+Power (P):          103.0023 W
+Efficiency (eta_p): 64.90 %
+Max Stress:         34.58 MPa
+(Max Stress section is: r/R =0.18 )
+Tip Mach:           0.304
