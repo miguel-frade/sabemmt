@@ -68,7 +68,7 @@ Some example plots are:
 
 ![Thrust distribution](results/4_Propeller_Aerodynamics_and_Forces.jpg)
 
-![Efficiency and Performances maps](results/6_Airfoil_stress_distribution.jpg)
+![Efficiency and Performances maps](results/6_Airfoil_stress_distribution_3_sections.jpg)
 
 ![Efficiency and Performances maps](results/7_Performance_Clouds.jpg)
 
