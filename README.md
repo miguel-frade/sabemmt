@@ -73,4 +73,16 @@ Some example plots are:
 ![Efficiency and Performances maps](results/7_Performance_Clouds.jpg)
 
 
+## License
+
+**Author:** Miguel Frade  
+**Affiliation at time of publication:** Universidad Politécnica de Madrid  
+**Date:** December 2025  
+
+This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+The code may be used, modified, and redistributed for **academic and non-commercial purposes**.  
+If this repository contributes to published research, citation of the project is appreciated.
+
+
 
