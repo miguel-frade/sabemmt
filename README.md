@@ -64,7 +64,7 @@ For a propeller similar to the APC 11x5.5 Sport Propeller used for UAVs, numeric
 
 Some example plots are:
 
-![3D propeller geometry](results/1_Propeller_geometry_in_3D.jpg)
+![3D propeller geometry](results/1_Propeller_geometry_in_3D_ScreenShot.jpg)
 
 ![Thrust distribution](results/4_Propeller_Aerodynamics_and_Forces.jpg)
 
