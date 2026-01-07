@@ -86,7 +86,7 @@ c_root = 0.022;
 c_max  = 0.034; 
 c_tip  = 0.012;
 % Shape function peaking around r/R = 0.4
-c = spline([0.15, 0.4, 1.0], [c_root, c_max, c_tip], mesh);
+c = spline([x0, 0.4, 1.0], [c_root, c_max, c_tip], mesh);
 
 %  --- Twist Distribution theta(r) [deg] - Geometric Pitch ---
 % For an 11x5.5, P ~ 5.5 inches = 0.1397 m
@@ -237,4 +237,5 @@ if strcmpi(reply,'y')
 else
     fprintf(' > Plot generation skipped\n');
 end
+
 
